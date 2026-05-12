@@ -1,0 +1,8 @@
+streamlit
+python
+googletrans==4.0.0-rc1
+SpeechRecognition
+pyttsx3
+pyaudio
+requests
+python-dotenv
